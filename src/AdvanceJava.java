@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class AdvanceJava {
 
-    public class statment {
+    public class statment {ho gya
         public static void main(String[] args) {
 
   /*
